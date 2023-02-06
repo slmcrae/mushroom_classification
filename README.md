@@ -16,7 +16,7 @@ Jupyter nbviewer was utilized to render the Jupyter Notebook report with correct
 <a href="https://nbviewer.org/" target="_blank">nbviewer.org</a> is an open source project under the larger <a href="https://jupyter.org/" target="_blank">Project Jupyter</a> initiative.<br>
 <br>
 
-### Photo Credit (slmcrae.github.io)
+**_Photo_** **_Credits_**<br>
 Mushroom photo:  https://www.preventivevet.com/dogs/poisonous-mushrooms-for-dogs<br>
 <br>
 <br>
