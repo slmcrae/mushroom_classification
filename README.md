@@ -12,6 +12,7 @@ as either poisonous or edible based on descriptive characteristics.<br>
 
 ### Software Credit
 Jupyter nbviewer was utilized to render the Jupyter Notebook report with correctly functioning links in the table of contents.<br>
+
 <br>
 nbviewer is an open source project under the larger <a href="https://jupyter.org/" target="_blank">Project Jupyter</a> initiative.<br>
 <a href="https://nbviewer.org/" target="_blank">nbviewer.org</a><br>
